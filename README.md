@@ -68,9 +68,9 @@ Certainly! You might want to add contact details like your **email address, Link
 
 ---
 ### **📩 Contact & Availability**  
-🔹 **Email:** traun.an.gig@gamil.com  
-🔹 **Timezone & Availability:** EST
-🔹 **Contact:** +1-484-525-5451 
+🔹 **Email:** traun.an.gig@gmail.com  
+🔹 **Timezone & Availability:** EST  
+🔹 **Contact:** +1-484-525-5451  
 
 💬 **Feel free to reach out anytime—I’d love to discuss your project and bring your vision to life!** 🚀  
 
