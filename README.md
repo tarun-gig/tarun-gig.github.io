@@ -25,7 +25,7 @@ Delivering **high-performance cloud applications, scalable backend solutions, an
 
 ---
 
-## 🌟 Gig Descriptions | Tailored Solutions  
+## 🌟 Tailored Solutions  
 
 ### 🚀 Custom Azure Functions & API Integration  
 🔹 **High-performance, event-driven solutions built for business agility!**  
