@@ -64,15 +64,10 @@ Need **automated data workflows**? I specialize in **Azure Data Factory, ETL pro
 📩 **Let’s optimize your data workflows for peak efficiency!**
 
 --- 
-Certainly! You might want to add contact details like your **email address, LinkedIn profile, or website** to make it easier for potential clients to reach out. Here’s how you can incorporate it into your Fiverr profile and gig descriptions:
 
----
 ### **📩 Contact & Availability**  
 🔹 **Email:** traun.an.gig@gmail.com  
 🔹 **Timezone & Availability:** EST  
 🔹 **Contact:** +1-484-525-5451  
 
 💬 **Feel free to reach out anytime—I’d love to discuss your project and bring your vision to life!** 🚀  
-
----
-
