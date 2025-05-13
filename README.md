@@ -1,3 +1,19 @@
+<style>
+  .container { display: flex; justify-content: space-between; }
+  .box { width: 48%; padding: 10px; border: 1px solid #ddd; border-radius: 8px; }
+</style>
+
+<div class="container">
+  <div class="box">
+    <h2>🚀 Senior Lead Software Engineer</h2>
+    <p>Expert in Azure, .NET Core, AI automation, and scalable backend development.</p>
+  </div>
+  <div class="box">
+    <h2>📩 Contact & Availability</h2>
+    <p>📧 Email: traun.an.gig@gmail.com <br> ⏰ Timezone: EST <br> 📞 Contact: +1-484-525-5451</p>
+  </div>
+</div>
+
 # 🚀 Senior Lead Software Engineer | Azure & .NET Expert 🚀  
 🔹 **Building Scalable, Intelligent Cloud Solutions**  
 
