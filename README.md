@@ -1,8 +1,5 @@
-| 🚀 **Senior Lead Software Engineer | Azure & .NET Expert** 🚀 | 📩 **Contact & Availability** |
-|---------------------------------|----------------------------|
-| **Cloud Solutions | Microservices | AI-powered Automation** | 📧 **Email:** traun.an.gig@gmail.com |
-| **Building scalable, high-performance applications** | 🕒 **Timezone:** EST |
-| **Azure, .NET Core, and AI-driven solutions** | 📞 **Contact:** +1-484-525-5451 |
+# 🚀 Senior Lead Software Engineer | Azure & .NET Expert 🚀  
+🔹 **Building Scalable, Intelligent Cloud Solutions**  
 
 Looking for **high-performance cloud applications, streamlined backend systems, and AI-powered automation**? With **expertise in Azure, .NET Core, and microservices architecture**, I **deliver enterprise-grade solutions** tailored for efficiency, security, and scalability.  
 
