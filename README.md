@@ -6,7 +6,7 @@ Delivering **high-performance cloud applications, scalable backend solutions, an
 ---
 
 ## 📩 Contact & Availability  
-📧 **Email:** traun.an.gig@gmail.com  
+📧 **Email:** tarun.an.gig@gmail.com  
 🕒 **Timezone:** EST  
 📞 **Contact:** +1-484-525-5451  
 
