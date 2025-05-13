@@ -1,4 +1,4 @@
-# 🚀 Senior Lead Software Engineer | Azure & .NET Expert 🚀  
+# 🚀 Senior Azure & .NET Expert 🚀  
 🔹 **Cloud Solutions | Microservices | AI-powered Automation**  
 
 Delivering **high-performance cloud applications, scalable backend solutions, and AI-powered automation**, I specialize in **Azure, .NET Core, and modern software architecture**, building systems that optimize operations and drive efficiency.  
