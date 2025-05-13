@@ -21,7 +21,7 @@ Are you looking for **high-performance cloud applications, scalable backend solu
 
 ---
 
-## 🌟 Fiverr Gig Descriptions 🌟
+## 🌟 Gig Descriptions 🌟
 
 ### 🚀 Custom Azure Function Development | Microservices & API Integration 🚀
 🔹 **High-performance Azure Functions tailored for scalable business solutions!**
